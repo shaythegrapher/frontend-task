@@ -3,3 +3,10 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+
+
+.loadMoreWrapper {
+  display: flex;
+  justify-content: center; 
+  margin-top: 2px; 
+}
